@@ -1,0 +1,9 @@
+IndentWidth: 4
+AlignConsecutiveAssignments: Consecutive
+AlwaysBreakTemplateDeclarations: Yes
+BinPackArguments: true
+BinPackParameters: true
+PointerAlignment: Left
+AccessModifierOffset: -4
+IndentAccessModifiers: false
+BreakBeforeBinaryOperators: All
